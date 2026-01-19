@@ -1,0 +1,34 @@
+{
+    "run_id": "ff9df8f9-eea0-449a-88fe-495787eb7db9",
+    "total_records": 339802,
+    "total_anomalies": 16990,
+    "anomaly_percentage": 5.0,
+    "anomaly_meta": {
+        "numeric_features_used": [
+            "pincode",
+            "bio_age_5_17",
+            "bio_age_17_"
+        ],
+        "model_trained": true,
+        "contamination": 0.05,
+        "n_samples": 339802,
+        "n_anomalies": 16990
+    },
+    "preprocessing_meta": {
+        "initial_rows": 361108,
+        "after_duplicates_rows": 339802,
+        "after_dropna_rows": 339802,
+        "date_columns": [
+            "date"
+        ],
+        "numeric_columns": [
+            "pincode",
+            "bio_age_5_17",
+            "bio_age_17_"
+        ],
+        "scaler_used": true
+    },
+    "aggregations": {
+        "anomaly_volume_time": [
+            {
+                "date": 
