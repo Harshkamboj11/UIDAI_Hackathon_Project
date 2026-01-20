@@ -116,15 +116,9 @@ UIDAI_AI_system/
 │ └── pages/
 │
 └── README.md
-
-yaml
-Copy code
-
 ---
 
 ## 🖼️ Screenshots
-
-> _(Add screenshots here to visually demonstrate the working of the system)_
 
 ### 📍 Dashboard Overview
  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/83526a90-3807-4137-b900-05579f252fbb" />
